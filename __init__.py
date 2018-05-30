@@ -1,1 +1,1 @@
-name = "popupy"
+from popupy.popupy import  *
