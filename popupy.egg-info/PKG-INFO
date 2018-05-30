@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: popupy
+Version: 1
+Summary: Get Country Population with an API
+Home-page: https://github.com/leon1995/popupy
+Author: Leon
+Author-email: leon.home@arcor.de
+License: UNKNOWN
+Description: # popupy
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

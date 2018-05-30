@@ -1,0 +1,6 @@
+README.md
+setup.py
+popupy.egg-info/PKG-INFO
+popupy.egg-info/SOURCES.txt
+popupy.egg-info/dependency_links.txt
+popupy.egg-info/top_level.txt
